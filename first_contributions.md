@@ -1,11 +1,11 @@
-name: Moin
-iam: speaker
+name: Moin  
+iam: speaker  
 
-name: Chirag Jain
+name: Chirag Jain  
 iam: organizer
 
-name: saleem
-iam: in stealh mode
+name: saleem  
+iam: in stealh mode  
 
-name: Anisha
-iam: organizer
+name: Anisha  
+iam: organizer  
